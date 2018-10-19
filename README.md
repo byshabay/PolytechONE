@@ -1,1 +1,1 @@
-# PolytechONE
+# Polytech:ONE
